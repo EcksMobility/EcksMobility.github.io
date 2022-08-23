@@ -1,11 +1,11 @@
 {
-    "name": "file_manger",
-    "short_name": "file_manger",
+    "name": "Ecks Mobility",
+    "short_name": "Ecks Mobility",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Your own charging station @EcksMobility",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
