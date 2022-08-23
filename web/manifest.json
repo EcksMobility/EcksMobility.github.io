@@ -1,6 +1,6 @@
 {
-    "name": "Ecks Mobility",
-    "short_name": "Ecks Mobility",
+    "name": "file_manger",
+    "short_name": "file_manger",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
